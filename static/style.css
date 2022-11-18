@@ -1,0 +1,14 @@
+:root {
+    --swiper-theme-color: #000;
+}
+
+.swiper {
+    width: 100%;
+}
+
+.gallery-image {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center;
+}
