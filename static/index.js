@@ -60,23 +60,23 @@ document.addEventListener('DOMContentLoaded', () => {
 const NOOP = () => {};
 
 const backgroundUrls = [
-    "/static/img/1.png",
-    "/static/img/funguy.webp",
-    "/static/img/2.png",
-    "/static/img/3.png",
-    "/static/img/4.png",
-    "/static/img/5.png",
-    "/static/img/6.png",
-    "/static/img/7.png",
-    "/static/img/8.png",
-    "/static/img/9.png",
-    "/static/img/10.png",
-    "/static/img/11.png",
-    "/static/img/12.png",
-    "/static/img/13.png",
-    "/static/img/14.png",
-    "/static/img/15.png",
-    "/static/img/16.png"
+    "./static/img/1.png",
+    "./static/img/funguy.webp",
+    "./static/img/2.png",
+    "./static/img/3.png",
+    "./static/img/4.png",
+    "./static/img/5.png",
+    "./static/img/6.png",
+    "./static/img/7.png",
+    "./static/img/8.png",
+    "./static/img/9.png",
+    "./static/img/10.png",
+    "./static/img/11.png",
+    "./static/img/12.png",
+    "./static/img/13.png",
+    "./static/img/14.png",
+    "./static/img/15.png",
+    "./static/img/16.png"
 ];
 
 function loadImage(src) {
